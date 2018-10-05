@@ -10,3 +10,14 @@ import Foundation
 
 print("Hello, World!")
 
+//Control Flow
+
+let day = "Friday"
+if day == "Friday" {
+    print("the weekend is here")
+}   else {
+    print("pursuit happiness")
+}
+// TO DO: PRACTICE WRITING SWITCH STATEMENTS
+// TO DO: PRACTICE CONTROL FLOW
+// TO DO: PRACTICE WRITING TUPLES
